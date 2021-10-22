@@ -1,0 +1,24 @@
+{
+  "name": "sample_erc1155_with_eip2981",
+  "version": "1.0.0",
+  "description": "Example for a ERC1155 contract with EIP-2981: NFT Royalty Standard ",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "erc1155",
+    "eip2981",
+    "royalty",
+    "nfy",
+    "solidity"
+  ],
+  "author": "Abderrahmane Bouali",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
+}
